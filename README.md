@@ -1,8 +1,9 @@
 
 # Facial Emotion Recognition
-
-
 Facial Expression Recognition involves predicting a person's emotions through images.
+
+<img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/2aacf910-bbe1-4dd9-9a05-7f9141b79548" alt="image" width="600"/>
+
 ## Introduction
 
 Within the scope of this project, our objective was to classify a person's emotions by analyzing their images. To accomplish this, we trained a model capable of categorizing emotions into seven distinct types: happiness, sadness, anger, disgust, neutrality, fear, and surprise.
@@ -26,10 +27,19 @@ To get started with the Chess Game, follow these simple steps:
 - Clone the repository to your local machine.
 
 - Install the required dependencies using `pip install`.
+- Download the dataset from 'https://www.kaggle.com/datasets/msambare/fer2013' and store it within your local repository.
 
 - Execute 'Model.ipynb'.
     
 ## Screenshots
+### DataSet ( FER 2013)
+
+<img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/cb87cb85-4cab-484e-a4a7-5da5efdaf4ae" alt="image" width="300"/>
+
+### Results
+<img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/1e7d1877-9e26-42b9-953b-37e554239eed" alt="image" width="300"/>
+<img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/bebaf764-825a-4fbd-98a7-4b4924eace3b" alt="image" width="300"/>
+
 
 
 
