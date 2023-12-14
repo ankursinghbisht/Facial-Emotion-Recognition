@@ -32,8 +32,10 @@ To get started with the Chess Game, follow these simple steps:
 - Execute 'Model.ipynb'.
     
 ## Screenshots
-### DataSet ( FER 2013)
+### Accuracy
+<img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/a0ce3c46-24ff-4d75-817c-3c67c313a27c" alt="image" width="400"/>
 
+### DataSet ( FER 2013)
 <img src="https://github.com/ankursinghbisht/Facial_Emotion_Recognition/assets/112644477/cb87cb85-4cab-484e-a4a7-5da5efdaf4ae" alt="image" width="300"/>
 
 ### Results
